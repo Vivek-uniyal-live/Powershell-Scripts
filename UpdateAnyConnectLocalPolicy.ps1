@@ -1,0 +1,1 @@
+Copy-Item -Path "\\mayor\psource$\APP\APP.Cisco.AnyConnect.4.10.00093\AnyConnectLocalPolicy.xml" -Destination "C:\ProgramData\Cisco\Cisco Anyconnect Secure Mobility Client" -Force -Recurse

@@ -1,0 +1,1 @@
+﻿invoke-command -ScriptBlock { [system.Diagnostics.Process]::Start("msedge","http://ltsqwebsvr04prd:20044/Status")} |Out-Null

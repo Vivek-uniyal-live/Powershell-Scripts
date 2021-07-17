@@ -1,0 +1,1 @@
+﻿Get-AppxPackage *Microsoft.VP9VideoExtensions* -AllUsers | Remove-AppxPackage -AllUsers
